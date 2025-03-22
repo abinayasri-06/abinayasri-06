@@ -192,7 +192,7 @@
 
             <!-- Add your profile picture here -->
 
-            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="photo.jpg" alt="Your Profile Picture" class="profile-picture">
 
             <h1>Pranesh S</h1>
 
@@ -236,7 +236,7 @@
 
                 I'm driven by the desire to craft high-performance web applications that enhance user experience and provide
 
-                 seamless digital solutions. With over 7 years of experience in the field, I'm dedicated to staying up to date 
+                 seamless digital solutions.I am fresher, I'm dedicated to staying up to date 
 
                  with the latest trends and innovations in the 
 
@@ -278,23 +278,17 @@
 
             <ul>
 
-                <li>React</li>
-
-                <li>Mern</li>
-
-                <li>Cloud Computing</li>
+                <li>advance exeal</li>
 
                 <li>Python</li>
 
-                <li>Spring</li>
+                <li>Photoshop</li>
 
-                <li>ML & AI</li>
+                <li>html</li>
 
                 <li>java</li>
 
                 <li>c++</li>
-
-                <li>Java script</li>
 
             </ul>
 
@@ -308,21 +302,7 @@
 
         <div class="section-content">
 
-            <h2>Projects</h2>
-
-            <ul>
-
-                <li><a href="#">E Cart website</a></li>
-
-                <li><a href="#">Cloud Security IBM</a></li>
-
-                <li><a href="#">IBM chatbot</a></li>
-
-                <li><a href="#">College Portal</a></li> 
-
-                <!-- Add more project links here -->
-
-            </ul>
+            <h2>this is my first Projects</h2>
 
         </div>
 
@@ -338,9 +318,9 @@
 
             <center>
 
-            <h2>Resume</h2>
+            <h2>resume</h2>
 
-            <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="resume.md" target="_blank" class="download-button">Download CV</a>
 
         </center>
 
